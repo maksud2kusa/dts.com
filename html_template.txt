@@ -1,0 +1,23 @@
+<!-- *************************************************************** -->
+<!-- * THIS PART OF THE PAGE DESCRIBES THE MAIN HEADER OF THE PAGE * -->
+<!-- *************************************************************** -->
+<header class="page-header">
+    <div class="topnav">
+        <a class="active" href="#Home">My Profile</a>
+        <a href="#Services">Services</a>
+        <a href="#portfolio">Portfolio</a>
+        <a href="#Contact">Contact Us</a>
+    </div>
+</header>
+<!-- *************************************************************** -->
+<!-- * THIS PART OF THE PAGE DESCRIBES THE MAIN BODY OF THE PAGE   * -->
+<!-- *************************************************************** -->
+<div class="mainbody">
+
+</div>
+<!-- *************************************************************** -->
+<!-- * THIS PART OF THE PAGE DESCRIBES THE MAIN BODY OF THE PAGE   * -->
+<!-- *************************************************************** -->
+<footer>
+
+</footer>
